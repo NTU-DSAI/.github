@@ -36,3 +36,5 @@ Below are some links that prospective students might find useful in their quest 
 ### Misc
 
 - [AMA Telegram Channel](https://t.me/+Sv2t9uDU2aQhw-aw)
+
+- [Website](https://ntu-dsai.github.io)
